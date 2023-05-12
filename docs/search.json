@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This website provide deployed ML projects using HTML as user interface. Models with gradio interface can be found in my Hugging Face profile. Notebooks with code are in the master branch on Github. This website is built with Quarto"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
