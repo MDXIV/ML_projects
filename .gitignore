@@ -1,1 +1,3 @@
 /.quarto/
+_quarto.yml
+*.qmd
